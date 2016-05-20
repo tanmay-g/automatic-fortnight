@@ -1,2 +1,2 @@
 # automatic-fortnight
-This is the initial commit for this blank readme file
+This will contain the android apps made by me
